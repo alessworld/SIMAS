@@ -5,13 +5,7 @@ Camat/Pimpinan : Hanya dapat Melihat dan Mencetak Laporan Data Yang Ada Dalam Si
 Masyarakat : Hanya Dapat  Melihat data yang ada dalam sitem (Data Asset dan Pajak) tidak dapat mengubah atau mencetak laporan.
 
 # Akun Login:
-# Admin : Username: admin Password :admin
-# Camat : Username: camat Password :camat
-# Masyarakat : Username :masyarakat Password : masyarakat
+ Admin : Username: admin Password :admin
+ Camat : Username: camat Password :camat
+ Masyarakat : Username :masyarakat Password : masyarakat
           
-
-# Tugas Mata Kuliah TEKNOLOGI  DAN TREN OPENSOURCE Kelas Source -1
-Atas Nama:
-Arif Wahyudi               : 17220214
-Muhammad Khairullah Munthe : 17220230
-Witri Khairani             : 17220245
